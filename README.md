@@ -12,7 +12,7 @@ Option 1 is where our automated tests should fit in the project development pipe
 4. Yes, because in this case the feature is a small unit of the larger code and has well defined inputs and outputs.
 
 ## Screenshots
-[screenshots folder](https://github.com/edeolive/Lab8_Starter/tree/main/screnshots)
+[screenshots folder](https://github.com/edeolive/Lab8_Starter/tree/main/screenshots)
 - [sum.test.js](./screenshots/sum_test_js.png)
 - [unit.test.js](./screenshots/unit_test_js.png)
 - [lab8.test.js](./screenshots/lab8_test_js.png)
